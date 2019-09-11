@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mekaibohga.dennis-hodges.com/sitemap.xml
